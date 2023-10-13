@@ -7,17 +7,6 @@ Using a HC_SR04 Ultrasonic sensor to measure distance in centimeters
 <img src="https://github.com/S0undWav3s/ARDUINO_HC_SR04_Distance_Measuring/blob/main/PIC_03.JPG" width=1080 HEIGHT=720>
 <br/>
 
-<div class="row">
-  <div class="column">
-    <img src="img_snow.jpg" alt="https://github.com/S0undWav3s/ARDUINO_HC_SR04_Distance_Measuring/blob/main/PIC_01.jpg" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="img_forest.jpg" alt="Forest" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="img_mountains.jpg" alt="Mountains" style="width:100%">
-  </div>
-</div>
 
 
 <br>
