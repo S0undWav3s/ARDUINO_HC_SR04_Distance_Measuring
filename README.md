@@ -9,11 +9,12 @@
 <img src="https://github.com/S0undWav3s/ARDUINO_HC_SR04_Distance_Measuring/blob/main/Media/PIC_03.JPG" width=100%>
 <img src="https://github.com/S0undWav3s/ARDUINO_HC_SR04_Distance_Measuring/blob/main/Media/PIC_04.JPG" width=50%>
 <br/>
-<br>
-Youtube Link: https://www.youtube.com/shorts/-rsV6Ozy1N4
 
 
 <br>
+🚀<b>[YOUTUBE VIDEO] :  https://www.youtube.com/shorts/-rsV6Ozy1N4 </b>
+<br/>
+
 <b>Arduino Code:</b>
 <br/>
 
