@@ -1,5 +1,5 @@
 # ARDUINO_HC_SR04_Distance_Measuring
-//Using HC-SR04 Arduino module to measure distance in centimeteres
+Using HC-SR04 Arduino module to measure distance in centimeteres
 
 int Trigger_Pin = 10;
 int Echo_Pin = 11;
