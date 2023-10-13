@@ -1,12 +1,4 @@
-<html>
-<head>
-<style>
-h1 {text-align: center;}
-p {text-align: center;}
-div {text-align: center;}
-</style>
-</head>
-<body>
+
 <br>
 <center><b>Using a HC-SR04 Ultrasonic sensor to measure distance in centimeters</b></center>
 
@@ -17,8 +9,7 @@ div {text-align: center;}
 <img src="https://github.com/S0undWav3s/ARDUINO_HC_SR04_Distance_Measuring/blob/main/PIC_03.JPG" width=80%>
 <img src="https://github.com/S0undWav3s/ARDUINO_HC_SR04_Distance_Measuring/blob/main/PIC_04.JPG" width=50%>
 <br/>
-</body>
-</html>
+
 
 
 <br>
