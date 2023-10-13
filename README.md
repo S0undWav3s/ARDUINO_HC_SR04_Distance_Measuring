@@ -1,5 +1,5 @@
 ARDUINO_HC_SR04_Distance_Measuring
-<img src="https://user-images.githubusercontent.com/113648005/190930787-fac672dd-76de-4153-b00a-a3eb344f737c.jpg" width=640 HEIGHT=360>
+<img src="https://user-images.githubusercontent.com/113648005/190930787-fac672dd-76de-4153-b00a-a3eb344f737c](https://github.com/S0undWav3s/ARDUINO_HC_SR04_Distance_Measuring/blob/main/PIC_01.jpg"" width=640 HEIGHT=360>
 
 ```ruby
 int Trigger_Pin = 10;
