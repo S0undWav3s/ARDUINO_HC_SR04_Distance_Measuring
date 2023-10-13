@@ -1,5 +1,5 @@
 <br>
-<b><center>Using a HC-SR04 Ultrasonic sensor to measure distance in centimeters</center></b>
+<center><b>Using a HC-SR04 Ultrasonic sensor to measure distance in centimeters</b></center>
 
 <br/>
 <br>
