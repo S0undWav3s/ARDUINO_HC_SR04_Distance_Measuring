@@ -10,7 +10,7 @@
 
 
 <br>
-Arduino Code:
+<b>Arduino Code:</b>
 <br/>
 
 ```ruby
