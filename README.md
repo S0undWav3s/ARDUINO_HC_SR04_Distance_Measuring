@@ -1,5 +1,4 @@
-ARDUINO_HC_SR04_Distance_Measuring
-<br/>
+Using a HC_SR04 Ultrasonic sensor to measure distance in centimeters
 <br/>
 <img src="https://github.com/S0undWav3s/ARDUINO_HC_SR04_Distance_Measuring/blob/main/PIC_01.jpg" width=540 HEIGHT=360>
 
