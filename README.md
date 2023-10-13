@@ -1,4 +1,4 @@
-```
+```ruby
 int Trigger_Pin = 10;
 int Echo_Pin = 11;
 float signalTime;
